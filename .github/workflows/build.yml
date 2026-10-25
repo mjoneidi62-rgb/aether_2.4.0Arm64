@@ -47,4 +47,4 @@ jobs:
           push: true
           provenance: false
           sbom: false
-        tags: ghcr.io/mjoneidi62-rgb/aether_2.4.0arm64:2.4.0-arm64
+          tags: ghcr.io/mjoneidi62-rgb/aether_2.4.0arm64:2.4.0-arm64
